@@ -1,0 +1,7 @@
+Tools and Technologies used in this project:
+
+python
+pandas 
+numpy 
+matplotlib 
+seaborn
