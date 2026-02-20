@@ -135,7 +135,3 @@ python coaster_analysis.py
 If you found this project useful, feel free to ⭐ the repository.
 
 ---
-
-## 📬 Contact
-
-You can connect with me on LinkedIn for collaboration or opportunities.
